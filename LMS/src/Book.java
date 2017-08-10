@@ -80,4 +80,8 @@ public class Book
 		}
 		return true;
 	}
+
+	public String Book(String string) {
+		return("a");
+	}
 }

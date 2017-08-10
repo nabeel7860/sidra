@@ -1,7 +1,8 @@
 public class LibSysGui extends javax.swing.JFrame {
 	
 	
-    public LibSysGui() {
+    public LibSysGui() 
+    {
         initComponents();
     }
     
